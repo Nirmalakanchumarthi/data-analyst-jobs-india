@@ -11,7 +11,7 @@ An end-to-end analysis of 1,450 real data-analyst job postings from India, built
 | Tableau Public (storytelling view) | [Open the dashboard](https://public.tableau.com/app/profile/nirmala.kanchumarthi/viz/DataAnalystJobsIndia/Dashboard) |
 | Power BI (exploration view) | Screenshots in `/dashboard` |
 
-![Tableau dashboard](https://github.com/Nirmalakanchumarthi/data-analyst-jobs-india/blob/main/github-upload/dashboard/tableau_dashboard.png?utm_source=chatgpt.com)
+![Tableau Dashboard](github-upload/dashboard/tableau_dashboard.png)
 
 ## Key findings
 
