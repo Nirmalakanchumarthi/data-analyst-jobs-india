@@ -11,7 +11,7 @@ An end-to-end analysis of 1,450 real data-analyst job postings from India, built
 | Tableau Public (storytelling view) | [Open the dashboard](https://public.tableau.com/app/profile/nirmala.kanchumarthi/viz/DataAnalystJobsIndia/Dashboard) |
 | Power BI (exploration view) | Screenshots in `/dashboard` |
 
-[Tableau Dashboard](github-upload/dashboard/tableau_dashboard.png)
+![Tableau Dashboard](dashboard/tableau_dashboard.png)
 
 ## Key findings
 
